@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'sazzad.info'
 languageCode = 'en-us'
 title = '0xSAZZAD'
 theme = "hugo-theme-serial-programmer"

@@ -2,6 +2,21 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://sazzad.pages.dev/assets/img/favicon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://sazzad.pages.dev/assets/img/favicon.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://sazzad.pages.dev/assets/img/favicon.png">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S8LD04P4BX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-S8LD04P4BX');
+</script>
+
+
   <title>{{ if eq .IsHome true }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
   {{ if .IsPage -}}
   <link rel="stylesheet" href="{{site.BaseURL}}assets/css/post.css" />

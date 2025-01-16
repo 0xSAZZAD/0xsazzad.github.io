@@ -1,4 +1,4 @@
-baseURL = "/hugo-theme-serial-programmer/"
+baseURL = "sazzad.info"
 languageCode = "en-us"
 title = "Hugo Serial Programmer"
 rssLimit = 20
@@ -6,8 +6,8 @@ copyright = "2024 0xSAZZAD | All rights reserved"
 minify = false
 
 [Author]
-  name = "sharadcodes"
-  email = "me@example.com"
+  name = "0xSAZZAD"
+  email = "swe.sazzad@gmail.com"
 
 [permalinks]
   posts = "/:year/:month/:day/:filename"

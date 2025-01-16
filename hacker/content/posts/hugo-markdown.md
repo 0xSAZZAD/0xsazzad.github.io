@@ -1,6 +1,7 @@
 ---
 title: Hugo Markdown
 date: 2021-11-04
+draft: true
 tags: ["hugo"]
 ---
 

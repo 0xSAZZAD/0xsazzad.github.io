@@ -2,39 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 0xSAZZAD</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>sazzad.info/posts/</link>
     <description>Recent content in Posts on 0xSAZZAD</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jan 2025 00:17:26 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="sazzad.info/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Mon, 13 Jan 2025 00:17:26 +0600</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How I Passed the OSCP</title>
-      <link>http://localhost:1313/posts/how-i-passed-the-oscp/</link>
-      <pubDate>Sat, 11 Jan 2025 19:01:38 +0600</pubDate>
-      <guid>http://localhost:1313/posts/how-i-passed-the-oscp/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hugo Markdown</title>
-      <link>http://localhost:1313/posts/hugo-markdown/</link>
-      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hugo-markdown/</guid>
-      <description>&lt;p&gt;Text can be &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, &lt;del&gt;strikethrough&lt;/del&gt; or &lt;code&gt;keyword&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./another-page.html&#34;&gt;Link to another page&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;There should be whitespace between paragraphs.&lt;/p&gt;&#xA;&lt;p&gt;There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.&lt;/p&gt;&#xA;&lt;h4 id=&#34;image&#34;&gt;Image&lt;/h4&gt;&#xA;&lt;p&gt;Images can be clicked to enlarge :) .&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://picsum.photos/800/300&#34; alt=&#34;Dummy Image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;header-1&#34;&gt;Header 1&lt;/h1&gt;&#xA;&lt;p&gt;This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Purpose of Education</title>
-      <link>http://localhost:1313/posts/the-purpose-of-education/</link>
-      <pubDate>Sun, 12 Dec 1948 10:18:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-purpose-of-education/</guid>
-      <description>&lt;p&gt;As I engage in the so-called &amp;ldquo;bull sessions&amp;rdquo; around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the &amp;ldquo;brethren&amp;rdquo; think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;</description>
+      <title>How I passed the OSCP</title>
+      <link>sazzad.info/posts/how-i-passed-the-oscp/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>sazzad.info/posts/how-i-passed-the-oscp/</guid>
+      <description>&lt;h1 id=&#34;my-journey-to-passing-the-oscp&#34;&gt;My Journey to Passing the OSCP&lt;/h1&gt;&#xA;&lt;p&gt;Passing the &lt;strong&gt;OffSec Certified Professional (OSCP)&lt;/strong&gt;  certification was more than just an achievement for me — it was the realization of a dream I had nurtured since 2021. Looking back, the journey was full of challenges, late nights, and a lot of learning, but every step was worth it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-preparation-phase&#34;&gt;The Preparation Phase&lt;/h2&gt;&#xA;&lt;p&gt;The thought of achieving this certification stayed in my mind for years, but the timing was never right.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

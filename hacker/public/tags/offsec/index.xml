@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Offsec on 0xSAZZAD</title>
-    <link>http://localhost:1313/tags/offsec/</link>
-    <description>Recent content in Offsec on 0xSAZZAD</description>
+    <title>OffSec on 0xSAZZAD</title>
+    <link>sazzad.info/tags/offsec/</link>
+    <description>Recent content in OffSec on 0xSAZZAD</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jan 2025 19:01:38 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/offsec/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="sazzad.info/tags/offsec/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How I Passed the OSCP</title>
-      <link>http://localhost:1313/posts/how-i-passed-the-oscp/</link>
-      <pubDate>Sat, 11 Jan 2025 19:01:38 +0600</pubDate>
-      <guid>http://localhost:1313/posts/how-i-passed-the-oscp/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <title>How I passed the OSCP</title>
+      <link>sazzad.info/posts/how-i-passed-the-oscp/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>sazzad.info/posts/how-i-passed-the-oscp/</guid>
+      <description>&lt;h1 id=&#34;my-journey-to-passing-the-oscp&#34;&gt;My Journey to Passing the OSCP&lt;/h1&gt;&#xA;&lt;p&gt;Passing the &lt;strong&gt;OffSec Certified Professional (OSCP)&lt;/strong&gt;  certification was more than just an achievement for me — it was the realization of a dream I had nurtured since 2021. Looking back, the journey was full of challenges, late nights, and a lot of learning, but every step was worth it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-preparation-phase&#34;&gt;The Preparation Phase&lt;/h2&gt;&#xA;&lt;p&gt;The thought of achieving this certification stayed in my mind for years, but the timing was never right.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,36 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head>
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>How I Passed the OSCP | 0xSAZZAD</title>
-  <link rel="stylesheet" href="http://localhost:1313/assets/css/post.css" />
-  <script defer src="http://localhost:1313/assets/js/lbox.js"></script>
+  <link rel="apple-touch-icon" sizes="180x180" href="https://sazzad.pages.dev/assets/img/favicon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://sazzad.pages.dev/assets/img/favicon.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://sazzad.pages.dev/assets/img/favicon.png">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S8LD04P4BX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-S8LD04P4BX');
+</script>
+
+
+  <title>How I passed the OSCP | 0xSAZZAD</title>
+  <link rel="stylesheet" href="sazzad.info/assets/css/post.css" />
+  <script defer src="sazzad.info/assets/js/lbox.js"></script>
   
-  <link rel="stylesheet" href="http://localhost:1313/assets/css/common.css" />
+  <link rel="stylesheet" href="sazzad.info/assets/css/common.css" />
   </head>
   <body>
     <main>
       <header>
-  <a class="site-title" href="http://localhost:1313/">0xSAZZAD</a>
+  <a class="site-title" href="sazzad.info/">0xSAZZAD</a>
 </header>
 
       <section class="article">
         <div class="article-header">
-          <h2 class="article-title">How I Passed the OSCP</h2>
-          <small class="date">Sat Jan 11, 2025</small>
+          <h2 class="article-title">How I passed the OSCP</h2>
+          <small class="date">Thu Jan 16, 2025</small>
           <div class="tags">
             
-            <a href="http://localhost:1313/tags/oscp" class="tag">oscp</a>
+            <a href="sazzad.info/tags/OSCP" class="tag">OSCP</a>
             
-            <a href="http://localhost:1313/tags/offsec" class="tag">offsec</a>
+            <a href="sazzad.info/tags/OSCP&#43;" class="tag">OSCP&#43;</a>
+            
+            <a href="sazzad.info/tags/OffSec" class="tag">OffSec</a>
             
           </div>
         </div>
-        <div class="content"><h2 id="introduction">Introduction</h2>
-<p>This is <strong>bold</strong> text, and this is <em>emphasized</em> text.</p>
-<p>Visit the <a href="https://gohugo.io">Hugo</a> website!</p>
+        <div class="content"><h1 id="my-journey-to-passing-the-oscp">My Journey to Passing the OSCP</h1>
+<p>Passing the <strong>OffSec Certified Professional (OSCP)</strong>  certification was more than just an achievement for me — it was the realization of a dream I had nurtured since 2021. Looking back, the journey was full of challenges, late nights, and a lot of learning, but every step was worth it.</p>
+<h2 id="the-preparation-phase">The Preparation Phase</h2>
+<p>The thought of achieving this certification stayed in my mind for years, but the timing was never right.</p>
+<p>Fast forward to <strong>June 8, 2024</strong> — the day I officially started my OSCP journey. I knew it wouldn’t be easy, but I was ready to give it my all.</p>
+<p>However, my journey wasn’t without challenges. On <strong>July 18, 2024</strong>, My country <em>Bangladesh</em> experienced an <a href="https://www.aljazeera.com/news/2024/7/28/bangladesh-restores-mobile-internet-after-11-day-blackout-to-quell-protests">internet blackout</a> as student protests against the government jobs quota scheme turned violent. I was worried and wondering if I could complete my OSCP preparation in time! But After five days of a complete shutdown, the internet was fully restored on July 24, and I made up for the lost time by diving straight into the challenge labs. Despite the disruption, I managed to complete all of the challenge labs before my lab time expired. Balancing my preparation with my full-time job as a Jr. SOC Analyst was tough. However, my previous experience in pen testing and CTF was helpful. Here’s how I structured my preparation:</p>
+<ol>
+<li><strong>Course &amp; Exercises</strong>: I&rsquo;ve read each chapter, taken notes and completed the exercises but didn&rsquo;t watch the videos.</li>
+<li><strong>Challenge Labs</strong>: I’ve completed all the challenge labs and documented everything. Skylark took me a few days to complete.</li>
+<li><strong>OSCP Like Boxes</strong>: I merged <strong>TJ Null’s</strong> and <strong>LainKusanagi’s</strong> OSCP Boxes lists into a single spreadsheet (<a href="https://docs.google.com/spreadsheets/d/1CDMZ3s2SFUxjMEYdFKOqRyX-lpqnhOohrxBdpVespEM/htmlview">here</a>) and solved all the boxes of Proving Grounds and HTB.</li>
+<li><strong>CPTS Path</strong>:  In addition to the official course material, I’ve also completed 50% of the <strong>Certified Penetration Testing Specialist (CPTS)</strong> path from <a href="https://referral.hackthebox.com/mzwxxes">HackTheBox</a>, which complemented my learning and found beneficial.</li>
+</ol>
+<p>I learned that <strong>enumeration is key</strong>. If something didn’t work, it was often because I had missed a detail during enumeration.</p>
+<h2 id="the-exam-day">The Exam Day</h2>
+<p>I scheduled my exam on <strong>November 26, 2024</strong>. The OSCP exam is 23 hours and 45 minutes and it consists of an Active Directory network and 3 standalone machines, to achieve full points we have to gain root or administrative privilege. Following that, we are given an additional 24 hours to write and submit a detailed professional report.</p>
+<p>I started with compromising AD, which took me around 3.5 hours. This boosted my confidence significantly. From there, I moved on to the other machines.</p>
+<p>It took me around <strong>7 hours</strong> to achieve the pass mark. I took a few breaks in between. After reaching the pass mark, I began cross-checking my notes to ensure I hadn’t missed any critical details that would be necessary for writing a report.</p>
+<h2 id="reporting">Reporting</h2>
+<p>Once the hacking phase was over, the work wasn’t done. Writing the report is just as critical as the hacking itself. I spent the next few hours carefully documenting every step I took, ensuring my explanations were clear and detailed. I treated this report as if I were presenting it to a client — clear, concise, and professional.</p>
+<p>On <strong>December 1, 2024</strong>, I received the email: <strong>“OSCP Certification Exam Results”</strong> 🎉. Alhamdulillah all the hard work, sleepless nights, and perseverance had paid off.
+<img src="/assets/images/exam_result.png" alt="OSCP Certificate"></p>
+<h2 id="reflections">Reflections</h2>
+<p>Passing the OSCP in just <strong>five months</strong>, despite the challenges I faced, taught me several invaluable lessons:</p>
+<ol>
+<li><strong>Perseverance Pays Off</strong>: There were moments when I felt stuck or frustrated, but pushing through those moments made all the difference.</li>
+<li><strong>Documentation is Critical</strong>: Whether during the exam or in real-world engagements, keeping detailed notes is essential.</li>
+<li><strong>Practice Makes Perfect</strong>: The knowledge I gained by solving from the challenge labs,  Proving Grounds, and Hack The Box was instrumental in my success.</li>
+<li><strong>Never Stop Learning</strong>: The OSCP is just one step in a lifelong journey of learning and growth.</li>
+</ol>
+<p>Today, I’m proud to say I&rsquo;m the <strong>first individual from Bangladesh</strong> to achieve the newly enhanched <strong>OSCP+ certification</strong>. It’s an honor and it motivates me to keep pushing the boundaries in cybersecurity.</p>
+<h2 id="closing-thoughts">Closing Thoughts</h2>
+<p>To anyone aspiring to take on the OSCP: You’ve got this. Stay focused, put in the effort, and trust the journey — every challenge is a step toward success. There will be tough moments, but remember: persistence is key. Keep learning, keep experimenting, and don’t be afraid to fail — it’s all part of the process. Stay disciplined, stay motivated, and celebrate your progress along the way. Your dedication will pay off. <strong>You can do it!</strong></p>
+<hr>
+<p>Thanks for reading my story. If you’re preparing for the OSCP and need advice, feel free to reach out—I’m always happy to help!</p>
+<p><img src="/assets/images/OSCP.png" alt="OSCP Certificate"></p>
 </div>
       </section>
       <footer>

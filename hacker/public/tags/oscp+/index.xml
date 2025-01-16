@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OSCP on 0xSAZZAD</title>
-    <link>sazzad.info/tags/oscp/</link>
-    <description>Recent content in OSCP on 0xSAZZAD</description>
+    <title>OSCP&#43; on 0xSAZZAD</title>
+    <link>sazzad.info/tags/oscp&#43;/</link>
+    <description>Recent content in OSCP&#43; on 0xSAZZAD</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="sazzad.info/tags/oscp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="sazzad.info/tags/oscp+/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I passed the OSCP</title>
       <link>sazzad.info/posts/how-i-passed-the-oscp/</link>
